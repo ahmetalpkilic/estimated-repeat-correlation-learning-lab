@@ -1,0 +1,60 @@
+{
+  "retrieved_utc": "2026-10-12T20:50:23.777779+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "commit_subject": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "license_url": "https://github.com/brandondube/prysm/blob/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md",
+      "local_license": "licenses/brandondube-prysm-current-LICENSE.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-12T20:44:20Z",
+      "commit": "8fd268116dde7d33dbb5f80b8ffe91d370e1d966",
+      "commit_date": "2026-10-12T20:44:19Z",
+      "commit_subject": "BUG: fix hang in ``ndarray.take`` for a zero-size axis (#32991)",
+      "license_url": "https://github.com/numpy/numpy/blob/8fd268116dde7d33dbb5f80b8ffe91d370e1d966/LICENSE.txt",
+      "local_license": "licenses/numpy-numpy-current-LICENSE.txt"
+    },
+    {
+      "repository": "scipy/scipy",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-12T18:28:26Z",
+      "commit": "4d6b7f25cdd3ab9a44bcaffd9a27729af3eb8afd",
+      "commit_date": "2026-10-12T18:28:26Z",
+      "commit_subject": "BUG:integrate: Fix a few F77 translation errors in `dzvode` (#26387)",
+      "license_url": "https://github.com/scipy/scipy/blob/4d6b7f25cdd3ab9a44bcaffd9a27729af3eb8afd/LICENSE.txt",
+      "local_license": "licenses/scipy-scipy-current-LICENSE.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-11T19:22:47Z",
+      "commit": "e3fc0dad9264588ea9d8c6488cc18be967b8bb8a",
+      "commit_date": "2026-10-11T19:22:47Z",
+      "commit_subject": "Type `kwargs` as `Any` in `plt.show` (#32460)",
+      "license_url": "https://github.com/matplotlib/matplotlib/blob/e3fc0dad9264588ea9d8c6488cc18be967b8bb8a/LICENSE/LICENSE",
+      "local_license": "licenses/matplotlib-matplotlib-current-LICENSE.txt"
+    },
+    {
+      "repository": "ahmetalpkilic/correlated-repeat-optical-timing-learning-lab",
+      "private": false,
+      "archived": false,
+      "pushed_at": "2026-10-12T03:29:54Z",
+      "commit": "5a034d304039ae1a01a23f956929dc3c71b2e7af",
+      "commit_date": "2026-10-12T03:29:43Z",
+      "commit_subject": "Add correlated-repeat covariance corrections and optical timing validation",
+      "license_url": "https://github.com/ahmetalpkilic/correlated-repeat-optical-timing-learning-lab/blob/5a034d304039ae1a01a23f956929dc3c71b2e7af/LICENSE",
+      "local_license": "licenses/ahmetalpkilic-correlated-repeat-optical-timing-learning-lab-current-LICENSE.txt"
+    }
+  ]
+}
